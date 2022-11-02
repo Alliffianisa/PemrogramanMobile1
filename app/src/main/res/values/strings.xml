@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">One Direction Albums</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Get to Know About </string>
+    <string name="this_activity2">D3 Manajemen Informatika</string>
+            <string name="this_activity3">Follow Us!</string>
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Tentang</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">Mahasiswa</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Up All Night</item>
+        <item>Take Me Home</item>
+        <item>Midnight Memories</item>
+        <item>Four</item>
+        <item>Made in The A.M.</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Tanggal Rilis : 8 November 2011</item>
+        <item>Tanggal Rilis : 9 November 2012</item>
+        <item>Tanggal Rilis : 25 November 2013</item>
+        <item>Tanggal Rilis : 17 November 2014</item>
+        <item>Tanggal Rilis : 13 November 2015</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+
+
+    </integer-array>
+
+</resources>
